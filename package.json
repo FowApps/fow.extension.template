@@ -22,7 +22,7 @@
     "cross-env": "7.0.3",
     "css-loader": "5.2.6",
     "dotenv-webpack": "^7.0.3",
-    "error-overlay-webpack-plugin": "^0.4.2",
+    "error-overlay-webpack-plugin": "^1.1.0",
     "eslint": "^7.2.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^8.3.0",
